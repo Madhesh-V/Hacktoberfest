@@ -1,6 +1,6 @@
 # 🎃 HacktoberFest Starter Project 🎃
 
-https://raw.githubusercontent.com/ossamamehmood/Hacktoberfest2023/main/.github/logo.png
+![HacktoberFest 2023](https://github.com/ossamamehmood/Hacktoberfest2022/raw/main/.github/logo.png)
 
 ** __Oct 01th - 30th, 2023 Update:__ THIS REPO IS TEMPORARILY __NOT MERGING NEW PRs__ until the CONTRIBUTORS.md file is sorted! Thanks for your patience! **
 
