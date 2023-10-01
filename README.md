@@ -117,3 +117,15 @@ Here is my `Games program` example: [NEWCODE](Newcode)
 * See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
 * Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
 * Check out some very creative ways to print out a "Hello, World!" string.
+
+## + Follow Me : } Quick Approval of Pull Request
+
+```py
+'''
+To get approval of the pull request much quicker and faster (`Follow Me`)🚀
+'''
+```
+
+<tr><td align="center"><a href="https://github.com/parthasarathy27"><kbd><img src="https://avatars.githubusercontent.com/u/83573352?v=4?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Madhesh Velu</b></sub></a><br /></td>
+
+</tr>
