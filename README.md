@@ -115,20 +115,3 @@ Here is my `hello_world` example: [hello_world_alicewonderland.js](https://githu
 * See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
 * Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
 * Check out some very creative ways to print out a "Hello, World!" string.
-
-## Reference links
-Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
-[https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
-
-Managing your Forked Repo: [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
-
-Syncing a Fork: [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
-
-Keep Your Fork Synced: [https://gist.github.com/CristinaSolana/1885435](https://gist.github.com/CristinaSolana/1885435)
-
-Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
-
-## Additional references added by contributors
-GitHub license explained [https://choosealicense.com](https://choosealicense.com)
