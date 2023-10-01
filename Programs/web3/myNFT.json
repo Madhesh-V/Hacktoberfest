@@ -1,0 +1,19 @@
+{
+  "name": "Madhesh Velu",
+  "description": "A beautiful painting of a mystical forest with vibrant colors.",
+  "image": "https://pbs.twimg.com/media/FtE_csjWAAAOqFx?format=jpg&name=4096x4096",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "John Doe"
+    },
+    {
+      "trait_type": "Year",
+      "value": 2023
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1 of 10"
+    }
+  ]
+}
