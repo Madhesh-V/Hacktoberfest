@@ -1,6 +1,6 @@
 # HacktoberFest Starter Project 
 
-![HacktoberFest 2023](https://github.com/ossamamehmood/Hacktoberfest2022/raw/main/.github/logo.png)
+![HacktoberFest 2023](https://user-images.githubusercontent.com/103871719/269039919-63bc748c-65a6-4188-8910-55748ad46f56.gif)
 
 ** __Oct 01th - 30th, 2023 Update:__ THIS REPO IS TEMPORARILY __NOT MERGING NEW PRs__ until the CONTRIBUTORS.md file is sorted! Thanks for your patience! **
 
@@ -117,3 +117,13 @@ Here is my `Games program` example: [NEWCODE](Newcode)
 * See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
 * Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
 * Check out some very creative ways to print out a "Hello, World!" string.
+
+## + Follow Me : } Quick Approval of Pull Request
+
+```py
+'''
+To get approval of the pull request much quicker and faster (`Follow Me`)🚀
+'''
+```
+
+<tr><td align="center"><a href="https://github.com/parthasarathy27"></a></td></tr>

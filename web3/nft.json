@@ -1,0 +1,19 @@
+{
+  "name": "Mystical Forest",
+  "description": "A beautiful painting of a mystical forest with vibrant colors.",
+  "image": "https://example.com/mystical-forest.jpg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "John Doe"
+    },
+    {
+      "trait_type": "Year",
+      "value": 2023
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1 of 10"
+    }
+  ]
+}
